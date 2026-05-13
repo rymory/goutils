@@ -1,6 +1,6 @@
 # goutils
 
-> **Author:** Onur Yaşar ([@onxorg](https://github.com/onxorg))
+> **Author:** Onur Yaşar ([@onurid](https://github.com/onurid))
 > **Part of:** [Rymory](https://rymory.org) — Open Identity Infrastructure
 > © 2017–2026 Onur Yaşar. All rights reserved.
 
