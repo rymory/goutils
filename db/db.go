@@ -2,6 +2,12 @@
 // Licensed under AGPL v3 + Commercial Exception
 // See LICENSE.txt
 
+// https://github.com/rymory/goutils/blob/main/LICENSE
+// https://github.com/rymory/goutils/blob/main/README.md
+// rymory.org 
+// onuryasar.org
+// onxorg@proton.me 
+
 package db
 
 import (
