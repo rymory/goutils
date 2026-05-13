@@ -1,24 +1,87 @@
-This is free and unencumbered software released into the public domain.
+RYMORY IDENTITY INFRASTRUCTURE
+Copyright (c) 2017–2026 Onur Yaşar <onxorg@proton.me>
+All rights reserved.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART I — OPEN SOURCE LICENSE (GNU AGPL v3)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
 
-For more information, please refer to <https://unlicense.org>
+You should have received a copy of the GNU Affero General Public
+License along with this program. If not, see:
+<https://www.gnu.org/licenses/agpl-3.0.html>
+
+KEY REQUIREMENT UNDER AGPL v3:
+If you run a modified version of this software as a network service
+(SaaS, hosted API, identity provider, etc.), you must make the
+complete source code of your modified version available to users
+of that service under the same AGPL v3 license.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART II — COMMERCIAL LICENSE EXCEPTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If you wish to use this software in a commercial product or service
+WITHOUT complying with the AGPL v3 source-disclosure requirements,
+you must obtain a separate Commercial License from the author.
+
+Commercial use includes but is not limited to:
+  • Embedding this software in a proprietary product or service
+  • Offering this software as a hosted/SaaS service without
+    disclosing your source modifications
+  • Using this software internally in a for-profit organization
+    without contributing modifications back
+
+To obtain a Commercial License, contact:
+  Onur Yaşar
+  E-mail : onxorg@proton.me
+  Web    : https://rymory.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART III — ATTRIBUTION & AUTHORSHIP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This project was conceived, designed and built solely by
+Onur Yaşar, starting in 2017. The identity infrastructure,
+federation architecture, multi-tenant role system and all
+associated protocols are original works of authorship.
+
+Any use of this software, in whole or in part, must retain
+this copyright notice and attribution.
+
+Trademark notice:
+  "Rymory", "Lemoras" and associated logos are trademarks
+  of Onur Yaşar and may not be used without written permission.
+  Trademark registrations filed with the Turkish Patent and
+  Trademark Office (TÜRKPATENT).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PART IV — TÜRKÇE ÖZET / TURKISH SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Bu yazılım GNU AGPL v3 lisansı ve Ticari Lisans İstisnası
+çerçevesinde lisanslanmıştır.
+
+Açık kaynak kullanım:
+  Kişisel, akademik veya AGPL v3 koşullarına uyan açık
+  kaynak projelerde özgürce kullanılabilir. Ağ servisi
+  olarak sunuluyorsa kaynak kod açıklanmak zorundadır.
+
+Ticari kullanım:
+  Ticari ürün veya hizmetlerde kullanım için yazardan
+  ayrı bir Ticari Lisans alınması zorunludur.
+
+Tüm haklar saklıdır. Telif hakkı 2017–2026 Onur Yaşar.
+"Rymory" ve "Lemoras" isimleri TÜRKPATENT'e tescil
+başvurusu yapılmış ticari markalardır.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
