@@ -1,4 +1,4 @@
-module github.com/lemoras/goutils/db
+module github.com/rymory/goutils/db
 
 go 1.20
 
