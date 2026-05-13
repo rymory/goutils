@@ -146,7 +146,7 @@ return u.Respond(u.Message(true, "Success"))
 ## License
 
 Licensed under **GNU AGPL v3** with Commercial Exception.
-See [LICENSE.txt](./LICENSE.txt) for full terms.
+See [LICENSE](./LICENSE) for full terms.
 
 Commercial licensing: onxorg@proton.me
 
