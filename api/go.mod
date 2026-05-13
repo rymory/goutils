@@ -1,4 +1,4 @@
-module github.com/lemoras/goutils/api
+module github.com/rymory/goutils/api
 
 go 1.20
 
