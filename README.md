@@ -80,7 +80,7 @@ Tokens are signed with HS512. Two signing keys are supported: `TOKEN_SECRET_KEY`
 ## Installation
 
 ```bash
-go get github.com/lemoras/goutils
+go get github.com/rymory/goutils
 ```
 
 Or with Go workspace (used in rymory-core):
@@ -109,8 +109,8 @@ use ./goutils
 
 ```go
 import (
-    u "github.com/lemoras/goutils/api"
-    d "github.com/lemoras/goutils/db"
+    u "github.com/rymory/goutils/api"
+    d "github.com/rymory/goutils/db"
 )
 
 // JWT validation
