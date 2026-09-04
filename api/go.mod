@@ -1,6 +1,6 @@
 module github.com/rymory/goutils/api
 
-go 1.20
+go 1.25
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
