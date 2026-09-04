@@ -1,6 +1,6 @@
 module github.com/rymory/goutils/db
 
-go 1.20
+go 1.25
 
 require (
 	github.com/jinzhu/gorm v1.9.16
@@ -9,5 +9,5 @@ require (
 
 require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
-	github.com/lib/pq v1.10.9 // indirect
+	github.com/lib/pq v1.12.3 // indirect
 )
